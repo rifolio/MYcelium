@@ -15,7 +15,47 @@ Our main goal is to streamline API integrations with leading CRM (Customer Relat
 
 ## Installation
 
-This README will be regularly updated as the project progresses, providing detailed instructions on installations, usage, and overall project directions. Please stay tuned for further updates.
+To use this project, follow these steps:
+
+### 1. Clone the Repository
+
+Clone this repository to your local machine using:
+
+```bash
+git clone URL
+```
+
+### 2. Set Up Virtual Environment
+
+Navigate to the project directory and set up a virtual environment by running:
+
+```bash
+python3 -m venv venv
+```
+
+### 3. Activate Virtual Environment
+
+Activate the virtual environment using:
+
+For Mac Usres:
+```bash
+source venv/bin/activate
+```
+
+For Windows usres:
+```bash
+.\venv\Scripts\activate
+```
+
+
+### 4. Install Dependencies
+
+Install the project dependencies using pip:
+
+```bash
+pip3 install -r requirements.txt
+```
+
 
 ## Contributing
 
