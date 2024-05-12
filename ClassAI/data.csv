@@ -1,0 +1,137 @@
+Category,Message
+ham,First Name
+ham,Last Name
+spam,Product ID
+spam,Warranty
+ham,Given Name
+ham,Surname
+spam,Employee ID
+spam,Department
+ham,Forename
+ham,Family Name
+spam,Account Balance
+spam,Transaction Amount
+ham,Fname
+ham,Lname
+spam,Shipping Address
+spam,Purchase Price
+ham,Name
+ham,Surname
+spam,Customer ID
+spam,Order Status
+ham,Customer Name
+ham,Surname
+spam,Order ID
+spam,Product Name
+ham,Primary Name
+ham,Last Name
+spam,Account Number
+spam,Subscription Type
+ham,Given Name
+ham,Surname
+spam,Service Provider
+spam,Contract Duration
+ham,Forename
+ham,Family Name
+spam,Social Security Number
+spam,Item Code
+ham,Given Name
+ham,Surname
+spam,Membership Level
+spam,Delivery Status
+ham,Fname
+ham,Lname
+spam,Transaction Type
+spam,Payment Status
+ham,Name
+ham,Surname
+spam,Invoice Amount
+spam,Billing Address
+ham,Contact Name
+ham,Surname
+spam,Shipping Method
+spam,Payment Date
+ham,Person Name
+ham,Surname
+spam,Order Quantity
+spam,Subscription Plan
+ham,Primary Name
+ham,Last Name
+spam,Feedback Category
+spam,Subscription Status
+ham,Name
+ham,Surname
+spam,Sales Rep ID
+spam,Order Date
+ham,Forename
+ham,Family Name
+spam,Return Reason
+spam,Delivery Date
+ham,Given Name
+ham,Surname
+spam,Tracking Number
+spam,Support Ticket ID
+ham,Customer Name
+ham,Surname
+spam,Refund Amount
+spam,Delivery Address
+ham,Full Name
+ham,Lastname
+spam,Account Status
+spam,Warranty Type
+ham,First
+ham,Last
+spam,Product Serial Number
+spam,Service Type
+ham,Contact Name
+ham,Surname
+spam,Account Holder
+spam,Issue Date
+ham,Person Name
+ham,Surname
+spam,Appointment Date
+spam,Claim Number
+ham,Primary Name
+ham,Last Name
+spam,Contract ID
+spam,Warranty Expiry
+ham,Name
+ham,Surname
+spam,Subscription Start Date
+spam,Subscription Renewal Date
+ham,Fname
+ham,Lname
+spam,Payment Confirmation Number
+spam,Shipping Insurance
+ham,Customer Name
+ham,Surname
+spam,Registration Date
+spam,Sales Tax ID
+ham,Full Name
+ham,Lastname
+spam,Repair Request ID
+spam,Maintenance Plan
+ham,First
+ham,Last
+spam,License Key
+spam,Installation Date
+ham,Contact Name
+ham,Surname
+spam,Customer Support ID
+spam,Account Activation Date
+ham,Person Name
+ham,Surname
+spam,License Expiry Date
+spam,Service Request Number
+ham,Primary Name
+ham,Last Name
+spam,Rental Agreement
+spam,Subscription Renewal Amount
+ham,Name
+ham,Surname
+spam,Technical Support Ticket ID
+spam,Product Registration Number
+ham,Client Name
+ham,Surname
+spam,Contract Renewal Date
+spam,License Activation Key
