@@ -8,13 +8,13 @@ import pandas as pd
 df = pd.read_csv("data.csv")
 
 #Handle class imbalance
-df_spam = df[df['Category'] == 'spam']
-df_ham = df[df['Category'] == 'ham']
-df_ham_downsampled = df_ham.sample(df_spam.shape[0])
-df_balanced = pd.concat([df_ham_downsampled, df_spam])
+df_product = df[df['Category'] == 'product']
+df_contact = df[df['Category'] == 'contact']
+df_contact_downsampled = df_contact.sample(df_product.shape[0])
+df_balanced = pd.concat([df_contact_downsampled, df_product])
 
-#Create binary label where spam=0 / ham=1
-df_balanced['spam'] = df_balanced['Category'].apply(lambda x: 1 if x == 'spam' else 0)
+#Create binary label where product=0 / contact=1
+df_balanced['product'] = df_balanced['Category'].apply(lambda x: 1 if x == 'product' else 0)
 
 #Import BERT model
 bert_preprocess = hub.KerasLayer("https://tfhub.dev/tensorflow/bert_en_uncased_preprocess/3")
@@ -85,7 +85,7 @@ https://keras.io/api/metrics/
 model.compile(optimizer='adam', loss='binary_crossentropy', metrics=METRICS)
 
 #Train model
-model.fit(df_balanced['Message'], df_balanced['spam'], epochs=10) #An epoch is one complete pass through the entire training dataset. Here we have 10
+model.fit(df_balanced['Message'], df_balanced['product'], epochs=10) #An epoch is one complete pass through the entire training dataset. Here we have 10
 
 #User inputed database
 df_csv = pd.read_csv("file.csv") #this is the database that the user will upload. CSV only!
