@@ -1,5 +1,0 @@
-python-telegram
-telebot
-config
-requests
-python-dotenv

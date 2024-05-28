@@ -1,17 +1,15 @@
-# MYcelium
+# MYcelium 5.63
 
-Welcome to MYcelium - a project aimed at streamlining API integrations with leading CRM (Customer Relationship Management) platforms. Our primary objective is to create a seamless connection between our service and widely used CRM systems. This initiative is crucial as it will enhance our product's functionality and appeal to users who heavily rely on these external systems.
+Welcome to MyCelium, a project aimed at enhancing the data migration and management process for Customer Relationship Management (CRM) platforms. MyCelium is designed to address common challenges faced during CRM data migrations, including identifying data types, handling missing values, and classifying databases to streamline the migration process by leveraging AI classification solutions.
 
+---
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Installation](#installation)
 - [Contributing](#contributing)
 - [Work Ethics in this Repo](#work-ethics-in-this-repo)
 - [License](#license)
-
-## Project Overview
-
-Our main goal is to streamline API integrations with leading CRM (Customer Relationship Management) platforms. This initiative is crucial because our customers frequently utilize these systems and would greatly benefit from a seamless connection with our service. Enhancing this integration capability will not only improve our product's appeal but also its functionality for users who rely on these external systems.
+---
 
 ## Installation
 
@@ -22,15 +20,15 @@ To use this project, follow these steps:
 Clone this repository to your local machine using:
 
 ```bash
-git clone URL
+git clone https://github.com/rifolio/MYcelium/
 ```
 
-### 2. Set Up Virtual Environment
+### 2. Set Up Or Select Virtual Environment
 
 Navigate to the project directory and set up a virtual environment by running:
 
 ```bash
-python3 -m venv venv
+python3 -m venv .venv
 ```
 
 ### 3. Activate Virtual Environment
@@ -56,7 +54,7 @@ Install the project dependencies using pip:
 pip3 install -r requirements.txt
 ```
 
-
+---
 ## Contributing
 
 We welcome contributions from the community to help us achieve our goal of seamless CRM integrations. Whether it's through bug fixes, feature enhancements, or suggestions, your input is valuable to us. If you want to make any suggestions or changes, please refer to the [Contributing Guidelines](CONTRIBUTING.md) that will be soon added to this repository.
@@ -68,6 +66,7 @@ We maintain a collaborative and organized environment in this repository. To ens
 - **Branching and Pull Requests**: When implementing a new feature or fixing a bug, create a new branch for that specific task. Once your work is complete, open a pull request and request a code review from other contributors. This ensures that all changes are reviewed and approved by the team before merging into the main branch.
 - **Issues Tab Usage**: The "Issues" tab is used for tracking coding tasks, bugs, or any specific issues related to the project. Feel free to create new issues for tasks or bugs you encounter. Utilize tags and assign members to issues as needed for better organization and collaboration.
 
+---
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

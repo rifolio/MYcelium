@@ -1,8 +1,0 @@
-requests
-pandas
-openpyxl
-openai
-python-dotenv
-tensorflow
-tensorflow_hub
-tensorflow_text

@@ -1,0 +1,100 @@
+Shipping Address,Employee ID,Product ID,Delivery Address
+Product ID,Warranty,Employee ID,Department
+Service Request Number,Product ID,Department,Shipping Address
+Product Name,Employee ID,Product ID,Shipping Address
+Delivery Address,Employee ID,Product ID,Warranty
+Subscription Type,Product ID,Department,Shipping Address
+Order ID,Department,Product ID,Order ID
+Product ID,Product ID,Subscription Type,Shipping Address
+Product ID,Department,Account Balance,Employee ID
+Transaction Amount,Employee ID,Product ID,Product Name
+Shipping Address,Warranty,Product ID,Subscription Type
+Subscription Type,Product ID,Department,Order ID
+Service Provider,Product ID,Warranty,Product ID
+Transaction Amount,Product ID,Warranty,Service Request Number
+Delivery Address,Warranty,Product ID,Order Quantity
+Product Name,Product ID,Transaction Amount,Department
+Subscription Type,Product ID,Department,Shipping Address
+Shipping Address,Department,Product ID,Transaction Amount
+Shipping Address,Product ID,Warranty,Order ID
+Product ID,Warranty,Employee ID,Department
+Product ID,Department,Subscription Type,Shipping Address
+Delivery Address,Product ID,Warranty,Product ID
+Service Request Number,Warranty,Product ID,Product ID
+Subscription Type,Product ID,Department,Shipping Address
+Shipping Address,Employee ID,Product ID,Department
+Subscription Type,Product ID,Department,Order ID
+Shipping Address,Department,Product ID,Shipping Address
+Service Provider,Product ID,Department,Shipping Address
+Shipping Address,Product ID,Warranty,Department
+Service Provider,Product ID,Department,Product ID
+Shipping Address,Department,Product ID,Subscription Type
+Shipping Address,Product ID,Warranty,Order ID
+Service Request Number,Warranty,Product ID,Order Quantity
+Transaction Amount,Employee ID,Product ID,Department
+Product ID,Department,Account Balance,Department
+Service Request Number,Product ID,Department,Shipping Address
+Delivery Address,Product ID,Warranty,Department
+Delivery Address,Employee ID,Product ID,Order ID
+Product ID,Department,Transaction Amount,Department
+Shipping Address,Department,Product ID,Delivery Address
+Shipping Address,Employee ID,Product ID,Order ID
+Transaction Amount,Product ID,Warranty,Department
+Product ID,Department,Account Balance,Order ID
+Product Name,Employee ID,Product ID,Department
+Subscription Type,Product ID,Department,Order Quantity
+Shipping Address,Product ID,Warranty,Service Request Number
+Product ID,Product ID,Subscription Type,Department
+Service Provider,Product ID,Warranty,Shipping Address
+Shipping Address,Department,Product ID,Product Name
+Service Provider,Product ID,Department,Order ID
+Subscription Type,Product ID,Department,Department
+Product ID,Warranty,Employee ID,Order ID
+Shipping Address,Product ID,Warranty,Order Quantity
+Shipping Address,Employee ID,Product ID,Warranty
+Product Name,Employee ID,Product ID,Order Quantity
+Delivery Address,Employee ID,Product ID,Product ID
+Service Request Number,Product ID,Department,Order Quantity
+Product ID,Product ID,Subscription Type,Order ID
+Product ID,Department,Account Balance,Shipping Address
+Shipping Address,Employee ID,Product ID,Subscription Type
+Service Provider,Product ID,Department,Subscription Type
+Service Provider,Product ID,Warranty,Order ID
+Product ID,Department,Transaction Amount,Order ID
+Delivery Address,Employee ID,Product ID,Shipping Address
+Product Name,Product ID,Transaction Amount,Order ID
+Service Request Number,Product ID,Department,Product Name
+Subscription Type,Product ID,Department,Service Request Number
+Product ID,Department,Transaction Amount,Shipping Address
+Product ID,Department,Transaction Amount,Subscription Type
+Service Request Number,Product ID,Department,Department
+Service Provider,Product ID,Department,Product Name
+Product Name,Employee ID,Product ID,Shipping Address
+Service Provider,Product ID,Warranty,Order Quantity
+Service Provider,Product ID,Department,Department
+Service Provider,Product ID,Department,Shipping Address
+Product ID,Warranty,Employee ID,Product ID
+Product ID,Department,Account Balance,Product ID
+Service Request Number,Product ID,Department,Order ID
+Shipping Address,Employee ID,Product ID,Order Quantity
+Delivery Address,Product ID,Warranty,Department
+Shipping Address,Employee ID,Product ID,Order ID
+Delivery Address,Employee ID,Product ID,Department
+Product Name,Employee ID,Product ID,Subscription Type
+Delivery Address,Product ID,Department,Product ID
+Delivery Address,Employee ID,Product ID,Warranty
+Product Name,Employee ID,Product ID,Order ID
+Service Provider,Product ID,Warranty,Department
+Product Name,Employee ID,Product ID,Department
+Product Name,Product ID,Transaction Amount,Shipping Address
+Product ID,Warranty,Employee ID,Order Quantity
+Service Provider,Product ID,Warranty,Order Quantity
+Product ID,Product ID,Subscription Type,Service Request Number
+Service Request Number,Product ID,Department,Subscription Type
+Product ID,Warranty,Employee ID,Shipping Address
+Product ID,Warranty,Employee ID,Service Request Number
+Delivery Address,Product ID,Warranty,Order ID
+Product ID,Department,Transaction Amount,Order Quantity
+Service Provider,Product ID,Warranty,Department
+Product Name,Product ID,Transaction Amount,Subscription Type
+Delivery Address,Employee ID,Product ID,Subscription Type

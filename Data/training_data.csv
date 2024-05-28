@@ -1,0 +1,657 @@
+Category,Message
+contact,First Name
+contact,Last Name
+product,Product ID
+product,Warranty
+contact,Given Name
+contact,Surname
+product,Employee ID
+product,Department
+contact,Forename
+contact,Family Name
+product,Account Balance
+product,Transaction Amount
+contact,Fname
+contact,Lname
+product,Shipping Address
+product,Purchase Price
+contact,Name
+contact,Surname
+product,Customer ID
+product,Order Status
+contact,Customer Name
+contact,Surname
+product,Order ID
+product,Product Name
+contact,Primary Name
+contact,Last Name
+product,Account Number
+product,Subscription Type
+contact,Given Name
+contact,Surname
+product,Service Provider
+product,Contract Duration
+contact,Forename
+contact,Family Name
+product,Social Security Number
+product,Item Code
+contact,Given Name
+contact,Surname
+product,Membership Level
+product,Delivery Status
+contact,Fname
+contact,Lname
+product,Transaction Type
+product,Payment Status
+contact,Name
+contact,Surname
+product,Invoice Amount
+product,Billing Address
+contact,Contact Name
+contact,Surname
+product,Shipping Method
+product,Payment Date
+contact,Person Name
+contact,Surname
+product,Order Quantity
+product,Subscription Plan
+contact,Primary Name
+contact,Last Name
+product,Feedback Category
+product,Subscription Status
+contact,Name
+contact,Surname
+product,Sales Rep ID
+product,Order Date
+contact,Forename
+contact,Family Name
+product,Return Reason
+product,Delivery Date
+contact,Given Name
+contact,Surname
+product,Tracking Number
+product,Support Ticket ID
+contact,Customer Name
+contact,Surname
+product,Refund Amount
+product,Delivery Address
+contact,Full Name
+contact,Lastname
+product,Account Status
+product,Warranty Type
+contact,First
+contact,Last
+product,Product Serial Number
+product,Service Type
+contact,Contact Name
+contact,Surname
+product,Account Holder
+product,Issue Date
+contact,Person Name
+contact,Surname
+product,Appointment Date
+product,Claim Number
+contact,Primary Name
+contact,Last Name
+product,Contract ID
+product,Warranty Expiry
+contact,Name
+contact,Surname
+product,Subscription Start Date
+product,Subscription Renewal Date
+contact,Fname
+contact,Lname
+product,Payment Confirmation Number
+product,Shipping Insurance
+contact,Customer Name
+contact,Surname
+product,Registration Date
+product,Sales Tax ID
+contact,Full Name
+contact,Lastname
+product,Repair Request ID
+product,Maintenance Plan
+contact,First
+contact,Last
+product,License Key
+product,Installation Date
+contact,Contact Name
+contact,Surname
+product,Customer Support ID
+product,Account Activation Date
+contact,Person Name
+contact,Surname
+product,License Expiry Date
+product,Service Request Number
+contact,Primary Name
+contact,Last Name
+product,Rental Agreement
+product,Subscription Renewal Amount
+contact,Name
+contact,Surname
+product,Technical Support Ticket ID
+product,Product Registration Number
+contact,Client Name
+contact,Surname
+product,Contract Renewal Date
+product,License Activation Key
+contact,First Name
+contact,Last Name
+product,Product ID
+product,Warranty
+contact,Given Name
+contact,Surname
+product,Employee ID
+product,Department
+contact,Forename
+contact,Family Name
+product,Account Balance
+product,Transaction Amount
+contact,Fname
+contact,Lname
+product,Shipping Address
+product,Purchase Price
+contact,Name
+contact,Surname
+product,Customer ID
+product,Order Status
+contact,Customer Name
+contact,Surname
+product,Order ID
+product,Product Name
+contact,Primary Name
+contact,Last Name
+product,Account Number
+product,Subscription Type
+contact,Given Name
+contact,Surname
+product,Service Provider
+product,Contract Duration
+contact,Forename
+contact,Family Name
+product,Social Security Number
+product,Item Code
+contact,Given Name
+contact,Surname
+product,Membership Level
+product,Delivery Status
+contact,Fname
+contact,Lname
+product,Transaction Type
+product,Payment Status
+contact,Name
+contact,Surname
+product,Invoice Amount
+product,Billing Address
+contact,Contact Name
+contact,Surname
+product,Shipping Method
+product,Payment Date
+contact,Person Name
+contact,Surname
+product,Order Quantity
+product,Subscription Plan
+contact,Primary Name
+contact,Last Name
+product,Feedback Category
+product,Subscription Status
+contact,Name
+contact,Surname
+product,Sales Rep ID
+product,Order Date
+contact,Forename
+contact,Family Name
+product,Return Reason
+product,Delivery Date
+contact,Given Name
+contact,Surname
+product,Tracking Number
+product,Support Ticket ID
+contact,Customer Name
+contact,Surname
+product,Refund Amount
+product,Delivery Address
+contact,Full Name
+contact,Lastname
+product,Account Status
+product,Warranty Type
+contact,First
+contact,Last
+product,Product Serial Number
+product,Service Type
+contact,Contact Name
+contact,Surname
+product,Account Holder
+product,Issue Date
+contact,Person Name
+contact,Surname
+product,Appointment Date
+product,Claim Number
+contact,Primary Name
+contact,Last Name
+product,Contract ID
+product,Warranty Expiry
+contact,Name
+contact,Surname
+product,Subscription Start Date
+product,Subscription Renewal Date
+contact,Fname
+contact,Lname
+product,Payment Confirmation Number
+product,Shipping Insurance
+contact,Customer Name
+contact,Surname
+product,Registration Date
+product,Sales Tax ID
+contact,Full Name
+contact,Lastname
+product,Repair Request ID
+product,Maintenance Plan
+contact,First
+contact,Last
+product,License Key
+product,Installation Date
+contact,Contact Name
+contact,Surname
+product,Customer Support ID
+product,Account Activation Date
+contact,Person Name
+contact,Surname
+product,License Expiry Date
+product,Service Request Number
+contact,Primary Name
+contact,Last Name
+product,Rental Agreement
+product,Subscription Renewal Amount
+contact,Name
+contact,Surname
+product,Technical Support Ticket ID
+product,Product Registration Number
+contact,Client Name
+contact,Surname
+product,Contract Renewal Date
+product,License Activation Keyproduct
+product,Item
+product,SKU
+product,Stock Keeping Unit
+product,Serial
+product,Model
+product,Catalog
+product,Part
+product,Barcode
+product,UPC
+product,EAN
+product,ISBN
+product,MPN
+product,Manufacturer Part
+product,Reference
+product,Identifier
+product,Tag
+product,Name
+product,Type
+product,Category
+product,Description
+product,Image
+product,Specification
+product,Features
+product,Attributes
+product,Options
+product,Variants
+product,Bundle
+product,Inventory
+product,List
+product,Cost
+product,Sale
+product,Retail
+product,Wholesale
+product,Discount
+product,Special
+product,Break
+product,Level
+product,Tier
+product,Range
+product,Adjustment
+product,Policy
+product,Quotation
+product,Offer
+product,Management
+product,Optimization
+product,Control
+product,Monitoring
+product,Comparison
+product,Forecast
+product,Analysis
+product,Setting
+product,Strategy
+product,Trend
+product,Update
+product,Fluctuation
+product,Variation
+product,Change
+product,Revision
+product,Modification
+product,Alteration
+product,Transformation
+product,Correction
+product,Amendment
+product,Fixing
+product,Action
+product,Impact
+product,Influence
+product,Tracking
+product,Price
+product,Cost
+product,Unit
+product,List
+product,Sale
+product,Retail
+product,Wholesale
+product,Discount
+product,Special
+product,Break
+product,Level
+product,Tier
+product,Range
+product,Adjustment
+product,Policy
+product,Quotation
+product,Offer
+product,Management
+product,Optimization
+product,Control
+product,Monitoring
+product,Comparison
+product,Forecast
+product,Analysis
+product,Setting
+product,Strategy
+product,Trend
+product,Update
+product,Fluctuation
+product,Variation
+product,Change
+product,Revision
+product,Modification
+product,Alteration
+product,Transformation
+product,Correction
+product,Amendment
+product,Fixing
+product,Action
+product,Impact
+product,Influence
+product,Tracking
+contact,First Name
+contact,Legal First Name
+contact,Full First Name
+contact,Formal First Name
+contact,Birth First Name
+contact,Current First Name
+contact,Primary First Name
+contact,Nickname
+contact,Short Name
+contact,First
+contact,First Given Name
+contact,First Initial
+contact,Initial Name
+contact,Initial
+contact,First Name Initial
+contact,Name
+contact,Personal Name
+contact,Primary Name
+contact,Main Name
+contact,Known As
+contact,Alias
+contact,First Part of Name
+contact,Name Part One
+contact,First Component
+contact,Component One
+contact,First Segment
+contact,Segment One
+contact,Intro Name
+contact,Basic Name
+contact,Initial Name Segment
+contact,Forepart
+contact,Beginning Name
+contact,Start Name
+contact,First Title
+contact,Title Name
+contact,First Label
+contact,Label One
+contact,Label Name
+contact,User First Name
+contact,Client First Name
+contact,Customer First Name
+contact,Contact First Name
+contact,Lead First Name
+contact,Member First Name
+contact,Staff First Name
+contact,Employee First Name
+contact,Student First Name
+contact,Subscriber First Name
+contact,Registrant First Name
+contact,Participant First Name
+contact,Attendee First Name
+contact,Patient First Name
+contact,Guest First Name
+contact,Visitor First Name
+contact,First Name Field
+contact,First Name Entry
+contact,First Name Info
+contact,First Name Data
+contact,First Name Details
+contact,First Name Information
+contact,Primary First
+contact,First Personal Name
+contact,First Identity
+contact,First Identifier
+contact,ID First Name
+contact,User Given Name
+contact,Client Given Name
+contact,Customer Given Name
+contact,Contact Given Name
+contact,Lead Given Name
+contact,Member Given Name
+contact,Staff Given Name
+contact,Employee Given Name
+contact,Student Given Name
+contact,Subscriber Given Name
+contact,Registrant Given Name
+contact,Participant Given Name
+contact,Attendee Given Name
+contact,Patient Given Name
+contact,Guest Given Name
+contact,Visitor Given Name
+contact,Primary Given Name
+contact,First Initial Name
+contact,First Legal Name
+contact,First Registered Name
+contact,Official First Name
+contact,Documented First Name
+contact,Record First Name
+contact,First Official Name
+contact,First Documented Name
+contact,Formal Given Name
+contact,Primary Given
+contact,Formal Given
+contact,Legal Given
+contact,Last Name
+contact,Surname
+contact,Family Name
+contact,Primary Last Name
+contact,Full Last Name
+contact,Formal Last Name
+contact,Legal Last Name
+contact,Birth Last Name
+contact,Current Last Name
+contact,Married Name
+contact,Maiden Name
+contact,Paternal Last Name
+contact,Maternal Last Name
+contact,Second Last Name
+contact,Last Given Name
+contact,Last
+contact,Surname Initial
+contact,Last Name Initial
+contact,Last Initial
+contact,Final Name
+contact,End Name
+contact,Name Suffix
+contact,Last Part of Name
+contact,Name Part Two
+contact,Second Name Component
+contact,Component Two
+contact,Second Segment
+contact,Segment Two
+contact,Last Segment
+contact,Family Surname
+contact,Parental Name
+contact,Primary Surname
+contact,Second Surname
+contact,Surname Field
+contact,Surname Entry
+contact,Surname Info
+contact,Surname Data
+contact,Surname Details
+contact,Surname Information
+contact,User Last Name
+contact,Client Last Name
+contact,Customer Last Name
+contact,Contact Last Name
+contact,Lead Last Name
+contact,Member Last Name
+contact,Staff Last Name
+contact,Employee Last Name
+contact,Student Last Name
+contact,Subscriber Last Name
+contact,Registrant Last Name
+contact,Participant Last Name
+contact,Attendee Last Name
+contact,Patient Last Name
+contact,Guest Last Name
+contact,Visitor Last Name
+contact,Family Last Name
+contact,Household Name
+contact,Clan Name
+contact,Tribe Name
+contact,Hereditary Name
+contact,Inherited Name
+contact,Primary Family Name
+contact,Secondary Family Name
+contact,Name of Record
+contact,Official Last Name
+contact,Documented Last Name
+contact,Record Last Name
+contact,Formal Surname
+contact,Primary Surname
+contact,Last Known Name
+contact,Last Documented Name
+contact,Registry Last Name
+contact,Recorded Last Name
+contact,Paternal Surname
+contact,Maternal Surname
+contact,Family Surname
+contact,Ancestral Name
+contact,Lineage Name
+contact,Heritage Name
+contact,Patronymic
+contact,Matronymic
+contact,Last Known Surname
+contact,Formal Family Name
+contact,Primary Family Surname
+contact,Secondary Family Surname
+contact,Family Last
+contact,Lineage Last Name
+contact,Family Given Name
+contact,Family Name Field
+contact,Family Name Entry
+contact,Family Name Info
+contact,Family Name Data
+contact,Family Name Details
+contact,Family Name Information
+contact,Surname Field
+contact,Last Name Data
+contact,Last Name Info
+contact,Last Name Detailsproduct
+product,Product Item
+product,Inventory Item
+product,Item Code
+product,Item SKU
+product,Model Code
+product,Model ID
+product,Part ID
+product,Barcode Number
+product,UPC Code
+product,EAN Code
+product,ISBN Number
+product,MPN Code
+product,Reference Number
+product,Tag Number
+product,Product Detail
+product,Item Detail
+product,Product Classification
+product,Item Classification
+product,Product Variety
+product,Product Assortment
+product,Product Assortment
+product,Product Range
+product,Product Stock
+product,Product Inventory
+product,Product Collection
+product,Product Assortment
+product,Product Assortment
+product,Product Line
+product,Product Array
+product,Product Compilation
+product,Product Set
+product,Product Aggregate
+product,Product Group
+product,Product Category
+product,Product Family
+product,Product Batch
+product,Product Batch
+product,Product Grouping
+product,Product Assortment
+product,Product Compilation
+product,Product Array
+product,Cost Price
+product,Unit Price
+product,List Price
+product,Sale Price
+product,Retail Price
+product,Wholesale Price
+product,Discount Price
+product,Special Price
+product,Price Break
+product,Price Level
+product,Price Tier
+product,Price Range
+product,Price Adjustment
+product,Price Policy
+product,Price Quotation
+product,Price Offer
+product,Price Management
+product,Price Optimization
+product,Price Control
+product,Price Monitoring
+product,Price Comparison
+product,Price Forecast
+product,Price Analysis
+product,Price Setting
+product,Price Strategy
+product,Price Trend
+product,Price Update
+product,Price Fluctuation
+product,Price Variation
+product,Price Change
+product,Price Revision
+product,Price Modification
+product,Price Alteration
+product,Price Transformation
+product,Price Correction
+product,Price Amendment
+product,Price Fixing
+product,Price Action
+product,Price Impact
+product,Price Influence
+product,Price Tracking
