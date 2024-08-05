@@ -3,6 +3,13 @@
 Welcome to MyCelium, a project aimed at enhancing the data migration and management process for Customer Relationship Management (CRM) platforms. MyCelium is designed to address common challenges faced during CRM data migrations, including identifying data types, handling missing values, and classifying databases to streamline the migration process by leveraging AI classification solutions.
 
 ---
+## Created by:
+
+- **Vladyslav Horbatenko** - [GitHub](https://github.com/rifolio)
+- **Salar Komeyshi** - [GitHub](https://github.com/SalarKo)
+- **Kacper Hvid** - [GitHub](https://github.com/KacperPuzniak)
+
+---
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Installation](#installation)

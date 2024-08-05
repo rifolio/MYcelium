@@ -1,3 +1,9 @@
+# Created by:
+
+# Vladyslav Horbatenko - https://github.com/rifolio
+# Salar Komeyshi - https://github.com/SalarKo
+# Kacper Hvid - https://github.com/KacperPuzniak
+
 import os
 import pandas as pd
 from dotenv import load_dotenv
